@@ -1,4 +1,4 @@
-# Stitcher - Photo Stitching Tool using Tkinter
+# Stitcher - Photo Stitching Tool
 
 Stitcher is a simple photo stitching tool built using Python's `tkinter` library. It allows you to select multiple images, combine them into a video, and preview the generated video within the application.
 
