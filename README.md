@@ -33,6 +33,11 @@ pip install pillow
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
+## Support
+If you found Stitcher helpful and would like to support its development, consider buying me a coffee:
+
+[![Support via PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/noodlebake)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
