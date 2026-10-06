@@ -38,6 +38,8 @@ If you found Stitcher helpful and would like to support its development, conside
 
 [![Support via PayPal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/noodlebake)
 
+🌐 [Portfolio: rhythrosalabs.github.io](https://rhythrosalabs.github.io) (more apps, music and sound design)
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
